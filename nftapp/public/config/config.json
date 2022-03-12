@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x6baA3cE1e81bA9Ef1DbE241726ff8115481Cc4fd",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x03a7a82a9e56f78423f9399baf758417abb533e77dbb4b1c69a1686d70a58162",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The EYES NFT",
+  "SYMBOL": "TENFT",
+  "MAX_SUPPLY": 36,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01 ,
+  "presaleCost" : 0.02 ,
+  "WEI__COST": 20000000000000000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/eyes-0tnopwxzr8",
+  "SHOW_BACKGROUND": true
+}
+
